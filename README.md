@@ -2,23 +2,15 @@
 
 <!-- PROJECT SHIELDS | ![image](BadgeURLHere) -->
 <p align='center'>
-
   <!-- Python -->
   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
-
-  <!-- R -->
-  <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>
-  
-  <!-- Jupyter -->
-  <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'/>
-
 </p>
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/jonasaacampos/pokedex">
+    <img src="img/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">project_title</h3>
@@ -27,36 +19,30 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+##  Pokedex
+Função recebe o nome de um pokemon:
+ - mostra sua ficha pokemon 
+ - baixa a imagem do pokemon e salva no diretorio img/
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Execute a linha com
+   ```sh
+   pokedex()
+   ```
+   O sistema pedirá que você digite o nome de um pokemon.
+   Caso o pokemon exista, sua ficha será exibida
+   Sua imagem será salva na pasta img
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   https://github.com/jonasaacampos/pokedex
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
 
 <!-- Exemplos -->
-## Exemplos
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- LICENSE -->
 ## Licença de utilização
@@ -92,7 +78,6 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 <!-- Referências -->
 ## Referências e créditos das imagens
-
 
 ### Créditos das imagens
 * Badges por [Alexandre Sanlim]('https://github.com/alexandresanlim')
