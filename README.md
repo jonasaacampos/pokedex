@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/jonasaacampos/pokedex">
+  <a href="https://github.com/jonasaacampos/pokedex-python">
     <img src="img/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
