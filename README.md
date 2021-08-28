@@ -1,5 +1,11 @@
 <!-- Read.me default para meus projetos -->
 
+[//]: # (Title: Pokedex-Python)
+[//]: # (Author:  Jonas Campos)
+[//]: # (Date: August 27, 2021)
+[//]: # (Comment: Função recebe o nome de um pokemon: mostra sua ficha pokemon baixa a imagem do pokemon e salva no diretorio local) 
+[//]: # (Tags: #pokemon, #scraping, #webcrowler, #python)  
+
 <!-- PROJECT SHIELDS | ![image](BadgeURLHere) -->
 <p align='center'>
   <!-- Python -->
