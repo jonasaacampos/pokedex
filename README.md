@@ -123,6 +123,6 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ## Talvez você goste (mais conteúdo)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://jonasaacampos.github.io/portifolio/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=portifolio" />
 </a>
