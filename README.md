@@ -19,19 +19,34 @@
     <img src="img/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+ <h3 align="center">Pokedex Python</h3>
 
-  <p align="center"> project_description </p>
+  <p align="center"> Extração de dados para criar seu pokedex </p>
+
+<!-- giff/screenshot -->
+  <p align="center">
+  <a href="https://github.com/jonasaacampos/pokedex-python">
+    <img src="img/pokedex-cover.png" alt="gif/screenShot">
+  </a>
 
 
 <!-- ABOUT THE PROJECT -->
-##  Pokedex
-Função recebe o nome de um pokemon:
- - mostra sua ficha pokemon 
- - baixa a imagem do pokemon e salva no diretorio img/
+## O que esperar deste projeto
+
+Com base no nome do pokemon, este projeto faz:
+
+- ✔️ baixa uma imagem correspondente
+- ✔️ baixa a ficha com as habilidades e caracteristicas do pokemon
+- ✔️ renomeia o arquivo baixado
+
+Este projeto _não faz:_
+
+- ❌ não solta raios
+- ❌ não te torna um mestre pokemon
+- ❌ não permite que voce maltrate os animais
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Como funciona?
 
 Execute a linha com
    ```sh
@@ -41,14 +56,32 @@ Execute a linha com
    Caso o pokemon exista, sua ficha será exibida
    Sua imagem será salva na pasta img
 
-### Installation
+### Como usar
 
 1. Clone the repo
    ```sh
    https://github.com/jonasaacampos/pokedex
    ```
+1. Instale as dependências
 
+   ```
+   pip install requests
+   pip install jason
+   ```
+   
 <!-- Exemplos -->
+## Ao infinito (e além)
+
+**Casos de Uso**
+
+A ideia deste projeto é mostrar como é relativamente simples raspar informações de um site.
+
+Podemos espandir e com a mesma premissa utilizar/adaptar este projeto para:
+
+- 💡 extrair dados de produtos
+- 💡 salvar imagens de produtos para e-commerce
+- 💡 extrair dados de redes sociais
+- 💡 criar um banco de dados para treino (*machine learning*)
 
 <!-- LICENSE -->
 ## Licença de utilização
@@ -87,3 +120,9 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ### Créditos das imagens
 * Badges por [Alexandre Sanlim]('https://github.com/alexandresanlim')
+
+## Talvez você goste (mais conteúdo)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=portifolio" />
+</a>
